@@ -10,7 +10,6 @@ I have hands-on experience through academic and personal projects, mainly focusi
 
 I am looking for an Intern/Fresher position where I can improve my technical skills, gain real-world experience, and contribute to team success.
 
-I am looking for an Intern/Fresher position where I can improve my technical skills, gain real-world experience, and contribute to team success.
 
 * 🌍  I'm based in Ha Noi, Viet Nam
 * ✉️  You can contact me at [trantrongtung00@gmail.com](mailto:trantrongtung00@gmail.com)
