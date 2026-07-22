@@ -9,18 +9,18 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 Computer Science student passionate about software development and continuous learning
-- 💻 Hands-on experience through academic and personal projects, mainly **web development**
-- 🌱 Currently learning **backend web development** and **deep learning** — building scalable services and understanding ML models
-- 🎯 Looking for an **Intern / Fresher** position to grow technical skills and contribute to a team
-- 🌍 Based in Ha Noi, Viet Nam
-- ✉️ Reach me at **trantrongtung00@gmail.com**
+-  Computer Science student passionate about software development and continuous learning
+-  Hands-on experience through academic and personal projects, mainly **web development**
+-  Currently learning **backend web development** and **deep learning** — building scalable services and understanding ML models
+-  Looking for an **Intern / Fresher** position to grow technical skills and contribute to a team
+-  Based in Ha Noi, Viet Nam
+-  Reach me at **trantrongtung00@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="45" title="C++"/>
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-ten-tau-46.vercel.app/api?username=TrTung216&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -44,7 +44,7 @@
   <img src="https://github-readme-stats-ten-tau-46.vercel.app/api/top-langs/?username=TrTung216&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://www.github.com/TrTung216"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" title="GitHub"/></a>
@@ -54,4 +54,4 @@
 
 ---
 
-<p align="center"><i>⭐ Thanks for stopping by — always open to collaborating on interesting projects!</i></p>
+<p align="center"><i> Thanks for stopping by — always open to collaborating on interesting projects!</i></p>
