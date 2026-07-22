@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-Reachable-blue?style=flat-square&logo=gmail&logoColor=white" alt="Contact"></a>
+  <a href="mailto:trantrongtung00@gmail.com"><img src="https://img.shields.io/badge/-Contact_Me-blue?style=flat-square&logo=gmail&logoColor=white" alt="Contact"></a>
   <img src="https://komarev.com/ghpvc/?username=TrTung216&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -36,12 +36,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrTung216&show_icons=true&theme=tokyonight&hide_border=true" alt="TrTung216's GitHub stats" height="165"/>
+  <!-- Replace with your self-hosted Vercel URL if you deploy your own instance -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TrTung216&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="TrTung216's GitHub stats" height="165"/>
   <img src="https://streak-stats.demolab.com?user=TrTung216&theme=tokyonight&hide_border=true" alt="TrTung216's streak stats" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrTung216&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrTung216&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
 </p>
 
 ---
