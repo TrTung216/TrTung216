@@ -1,9 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Tran Trong Tung</h1>
 <h3 align="center">Computer Science / IT Student | Aspiring Backend & ML Developer</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="500">
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-Reachable-blue?style=flat-square&logo=gmail&logoColor=white" alt="Contact"></a>
@@ -39,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrTung216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="TrTung216's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrTung216&theme=tokyonight&hide_border=true" alt="TrTung216's streak stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TrTung216&show_icons=true&theme=tokyonight&hide_border=true" alt="TrTung216's GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=TrTung216&theme=tokyonight&hide_border=true" alt="TrTung216's streak stats" height="165"/>
 </p>
 
 <p align="center">
