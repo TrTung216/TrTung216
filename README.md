@@ -54,4 +54,12 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TrTung216&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
+</p>
+
+---
+
 <p align="center"><i> Thanks for stopping by — always open to collaborating on interesting projects!</i></p>
