@@ -51,15 +51,6 @@
   <a href="https://www.facebook.com/trantrong.tung.2162005"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" title="Facebook"/></a>
   <a href="mailto:trantrongtung00@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="32" title="Email"/></a>
 </p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TrTung216&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
-</p>
-
 ---
 
 <p align="center"><i> Thanks for stopping by — always open to collaborating on interesting projects!</i></p>
